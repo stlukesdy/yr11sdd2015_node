@@ -20,3 +20,8 @@
 Write a js program for the following algorithm, use better variable names.
 
 <img src="teacher/images/task3.jpg" >
+
+## Task 4
+
+Create a js function that takes 'HighIndex' as input parameter and creates and Array that as every value set to its index.
+
