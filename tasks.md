@@ -14,3 +14,9 @@
 
 [Sample solution] (https://github.com/stlukesdy/yr11sdd2015_node/blob/master/teacher/node_tasks/task2/program.js)
   
+
+## Task 3
+
+Write a js program for the following algorithm, use better variable names.
+
+<img src="teacher/images/task3.jpg" >
