@@ -1,0 +1,14 @@
+{
+  "name": "yr11sdd2015_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthias Ludwig",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.2.19"
+  }
+}
