@@ -21,7 +21,15 @@ Write a js program for the following algorithm, use better variable names.
 
 <img src="teacher/images/task3.jpg" >
 
+[Sample solution] (https://github.com/stlukesdy/yr11sdd2015_node/blob/master/teacher/node_tasks/task3/program.js)
+  
+
+
 ## Task 4
 
-Create a js function that takes 'HighIndex' as input parameter and creates and Array that as every value set to its index.
+Create a js function that takes 'HighIndex' as input parameter and creates an Array that has every value set to its index.
+
+[Sample solution] (https://github.com/stlukesdy/yr11sdd2015_node/blob/master/teacher/node_tasks/task4/program.js)
+  
+
 
