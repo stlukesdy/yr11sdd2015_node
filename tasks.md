@@ -38,6 +38,7 @@ Write a program that reads a text file containing strings made up of zeroes and 
 
 
 Example:
+
 | Input         | Output        | 
 |---------------|---------------| 
 | 0011          | 0011 - 2      | 
