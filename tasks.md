@@ -32,4 +32,17 @@ Create a js function that takes 'HighIndex' as input parameter and creates an Ar
 [Sample solution] (https://github.com/stlukesdy/yr11sdd2015_node/blob/master/teacher/node_tasks/task4/program.js)
   
 
+## Task 5
+
+Write a program that reads a text file containing strings made up of zeroes and ones. The program counts the number of ones per line.
+
+
+Example:
+| Input         | Output        | 
+|---------------|---------------| 
+| 0011          | 0011 - 2      | 
+| 0101010       | 0101010 - 3   | 
+| 01            | 01 - 1        | 
+| 00000000      | 00000000 - 0  | 
+| 1111          | 1111 - 4      |
 
