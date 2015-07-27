@@ -47,3 +47,16 @@ Example:
 | 00000000      | 00000000 - 0  | 
 | 1111          | 1111 - 4      |
 
+
+
+## Task 6
+
+Write a program that reads a text file containing lines of two numbers and a plus character in the middle. The program should add the two numbers and print the result.
+
+Example:
+
+| Input         | Output        | 
+|---------------|---------------| 
+| 1+1           | 1+1=1         | 
+| 99+2          | 99+2=101      | 
+| 1000+0        | 1000+0=1000   | 
