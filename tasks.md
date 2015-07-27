@@ -47,7 +47,7 @@ Example:
 | 00000000      | 00000000 - 0  | 
 | 1111          | 1111 - 4      |
 
-
+[Sample solution] (https://github.com/stlukesdy/yr11sdd2015_node/blob/master/teacher/node_tasks/task5/program.js)
 
 ## Task 6
 
