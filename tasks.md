@@ -61,3 +61,28 @@ Example:
 | 99+2          | 99+2=101      | 
 | 1000+0        | 1000+0=1000   | 
 
+[Sample solution] (https://github.com/stlukesdy/yr11sdd2015_node/blob/master/teacher/node_tasks/task6/program.js)
+
+## Task 7
+
+Write a program that reads in two strings from the console and prints out the string that is alphabetically higher (e.g. B is higher than A)
+
+Example:
+<table>
+  <tr>
+    <th>Input</th>
+    <th>Output</th>
+  </tr>
+  <tr>
+    <td>abc</br>def</td>
+    <td>def</td>
+  </tr>
+  <tr>
+    <td>A</br>a</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td>node</br>javascript</td>
+    <td>node</td>
+  </tr>
+</table>
