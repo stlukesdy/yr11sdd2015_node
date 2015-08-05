@@ -89,3 +89,57 @@ Example:
 
 [Sample solution] (https://github.com/stlukesdy/yr11sdd2015_node/blob/master/teacher/node_tasks/task7/program.js)
 
+## Task 8
+
+Write a program that reads a text file containing lines of digits. For each line the program should add up all digits.
+
+Example:
+<table>
+  <tr>
+    <th>Input</th>
+    <th>Output</th>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>10000</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>123</td>
+    <td>6</td>
+  </tr>
+</table>
+
+[Sample solution] (https://github.com/stlukesdy/yr11sdd2015_node/blob/master/teacher/node_tasks/task8/program.js)
+
+
+## Task 9
+
+Write a program that reads in a line of digits from the console. The program should print out the highest digit.
+
+Example:
+<table>
+  <tr>
+    <th>Input</th>
+    <th>Output</th>
+  </tr>
+  <tr>
+    <td>0000</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>10000</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>1230</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>43216</td>
+    <td>6</td>
+  </tr>
+</table>
