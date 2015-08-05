@@ -86,3 +86,6 @@ Example:
     <td>node</td>
   </tr>
 </table>
+
+[Sample solution] (https://github.com/stlukesdy/yr11sdd2015_node/blob/master/teacher/node_tasks/task7/program.js)
+
