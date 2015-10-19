@@ -143,3 +143,24 @@ Example:
     <td>6</td>
   </tr>
 </table>
+
+
+## Task 9
+
+Write a program that reads in a two lines from the console. The first input should be an integer indicating a length l. The second input should be a word. If the length of the word is less or equal to l then the output should be 'OK'. If the length of the word is greater than l then the output should be 'TOO LONG'.
+
+Example:
+<table>
+  <tr>
+    <th>Input</th>
+    <th>Output</th>
+  </tr>
+  <tr>
+    <td>5<br>cat</td>
+    <td>OK</td>
+  </tr>
+  <tr>
+    <td>5<br>kangaroo</td>
+    <td>TOO LONG</td>
+  </tr>
+</table>
