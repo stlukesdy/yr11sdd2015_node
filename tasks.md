@@ -166,3 +166,6 @@ Example:
     <td>TOO LONG</td>
   </tr>
 </table>
+
+
+[Sample solution] (https://github.com/stlukesdy/yr11sdd2015_node/blob/master/teacher/node_tasks/task10/program.js)
