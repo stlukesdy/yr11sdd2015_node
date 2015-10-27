@@ -173,7 +173,7 @@ Example:
 
 ## Task 11
 
-Write a program that reads in words from a text file, one word per line. If the word contains the letter ‘a’, the first part of the output should be ‘a-yes’ otherwise is should be ‘a-no’. The second part of the output should count how many e’s (n) the word contains: e-n. Every word has only lowercase letters.
+Write a program that reads in words from a text file, one word per line. If the word contains the letter ‘a’, the first part of the output should be ‘a-yes’ otherwise is should be ‘a-no’. The second part of the output should count how many times the letter e occurs. Every word has only lowercase letters.
 
 Example:
 <table>
