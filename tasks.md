@@ -182,7 +182,7 @@ Example:
     <th>Output</th>
   </tr>
   <tr>
-    <td>text<br>many<br><br>reads<br>weather</td>
+    <td>text<br>many<br>reads<br>weather</td>
     <td>a-no e-1<br>a-yes e-0<br>a-yes e-1<br>a-yes e-2</td>
   </tr>
 </table>
