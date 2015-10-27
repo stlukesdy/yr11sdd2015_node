@@ -169,3 +169,21 @@ Example:
 
 
 [Sample solution] (https://github.com/stlukesdy/yr11sdd2015_node/blob/master/teacher/node_tasks/task10/program.js)
+
+
+## Task 11
+
+Write a program that reads in words from a text file, one word per line. If the word contains the letter ‘a’, the first part of the output should be ‘a-yes’ otherwise is should be ‘a-no’. The second part of the output should count how many e’s the word contains: e-<count>.
+
+Example:
+<table>
+  <tr>
+    <th>Input</th>
+    <th>Output</th>
+  </tr>
+  <tr>
+    <td>text<br>many<br><br>reads<br>weather</td>
+    <td>a-no e-1<br>a-yes e-0<br>a-yes e-1<br>a-yes e-2</td>
+  </tr>
+</table>
+
