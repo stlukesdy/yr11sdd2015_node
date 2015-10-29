@@ -210,3 +210,20 @@ Time..........1<br>
 </pre></td></tr>
 
 </table>
+
+## Task 18
+
+Convert distances given in km, mm or cm into m. The program should read from the console and stop if -1 is the input:
+
+Example:
+<table>
+  <tr>
+    <th>Input</th>
+    <th>Output</th>
+  </tr>
+<tr><td><pre>1m</pre></td><td><pre>1m</pre></td></tr>
+<tr><td><pre>1km</pre></td><td><pre>1000m</pre></td></tr>
+<tr><td><pre>34cm</pre></td><td><pre>0.34m</pre></td></tr>
+<tr><td><pre>900mm</pre></td><td><pre>0.9m</pre></td></tr>
+<tr><td><pre>33km</pre></td><td><pre>33000m</pre></td></tr> 
+</table>
