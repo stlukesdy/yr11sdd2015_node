@@ -18,3 +18,33 @@ Example:
     <td>convertToCamelCase</td>
   </tr>
 </table>
+
+
+## Task 13
+
+The 24-hour system of time uses four digits to represent a time to the nearest minute between midnight (0000) and one minute to midnight on the same day (2359). Write a program that reads 4-digit numbers from a text file and checks if the number is a valid time.
+
+Example:
+<table>
+  <tr>
+    <th>Input</th>
+    <th>Output</th>
+  </tr>
+  <tr>
+    <td>0509</td>
+    <td>Valid time</td>
+  </tr>
+  <tr>
+    <td>0661</td>
+    <td>Invalid time</td>
+  </tr>
+  <tr>
+    <td>2609</td>
+    <td>Invalid time</td>
+  </tr>
+  <tr>
+    <td>1125</td>
+    <td>Valid time</td>
+  </tr>
+</table>
+
