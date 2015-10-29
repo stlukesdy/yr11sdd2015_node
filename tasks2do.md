@@ -122,3 +122,47 @@ Marx 13<br>
 </pre></td></tr>
 
 </table>
+
+## Task 16
+
+Same task as task 15 i.e. Write a program that generates a simple index from a list of words from a text file, one per line. The index shows each word and the position of the word in the list, counting from 1. 
+
+The index should be sorted by word (case-insensitive). Use [array sort](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort).
+
+Example:
+<table>
+	<tr>
+	<th>Input</th>
+	<th>Output</th>
+	</tr>
+
+<tr><td><pre>Time<br>
+flies<br>
+like<br>
+an<br>
+arrow<br>
+but<br>
+fruit<br>
+flies<br>
+like<br>
+a<br>
+banana<br>
+Groucho<br>
+Marx<br>
+</pre></td><td><pre>
+a 10<br>
+an 4<br>
+arrow 5<br>
+banana 11<br>
+but 6<br>
+flies 2<br>
+flies 8<br>
+fruit 7<br>
+Groucho 12<br>
+like 3<br>
+like 9<br>
+Marx 13<br>
+Time 1<br>
+</pre></td></tr>
+
+</table>
