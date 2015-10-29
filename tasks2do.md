@@ -85,22 +85,22 @@ Example:
 Write a program that generates a simple index from a list of words, one per line. The index shows each word and the position of the word in the list, counting from 1. 
 
 Example:
-<table>
-  <tr>
-    <th>Input</th>
-    <th>Output</th>
-  </tr>
-	<tr><td>`Time`</td><td>Time 1</td></tr>
-	<tr><td>flies</td><td>flies 2</td></tr>
-	<tr><td>like</td><td>like 3</td></tr>
-	<tr><td>an</td><td>an 4</td></tr>
-	<tr><td>arrow</td><td>arrow 5</td></tr>
-	<tr><td>but</td><td>but 6</td></tr>
-	<tr><td>fruit</td><td>fruit 7</td></tr>
-	<tr><td>flies</td><td>flies 8</td></tr>
-	<tr><td>like</td><td>like 9</td></tr>
-	<tr><td>a</td><td>a 10</td></tr>
-	<tr><td>banana</td><td>banana 11</td></tr>
-	<tr><td>Groucho</td><td>Groucho 12</td></tr>
-	<tr><td>Marx</td><td>Marx 13</td></tr>
-</table>
+		<table>
+		  <tr>
+			<th>Input</th>
+			<th>Output</th>
+		  </tr>
+			<tr><td>Time</td><td>Time 1</td></tr>
+			<tr><td>flies</td><td>flies 2</td></tr>
+			<tr><td>like</td><td>like 3</td></tr>
+			<tr><td>an</td><td>an 4</td></tr>
+			<tr><td>arrow</td><td>arrow 5</td></tr>
+			<tr><td>but</td><td>but 6</td></tr>
+			<tr><td>fruit</td><td>fruit 7</td></tr>
+			<tr><td>flies</td><td>flies 8</td></tr>
+			<tr><td>like</td><td>like 9</td></tr>
+			<tr><td>a</td><td>a 10</td></tr>
+			<tr><td>banana</td><td>banana 11</td></tr>
+			<tr><td>Groucho</td><td>Groucho 12</td></tr>
+			<tr><td>Marx</td><td>Marx 13</td></tr>
+		</table>
