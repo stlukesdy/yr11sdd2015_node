@@ -90,7 +90,7 @@ Example:
     <th>Input</th>
     <th>Output</th>
   </tr>
-	<tr><td>Time</td><td>Time 1</td></tr>
+	<tr><td>`Time`</td><td>Time 1</td></tr>
 	<tr><td>flies</td><td>flies 2</td></tr>
 	<tr><td>like</td><td>like 3</td></tr>
 	<tr><td>an</td><td>an 4</td></tr>
