@@ -82,7 +82,7 @@ Example:
 
 ## Task 15
 
-Write a program that generates a simple index from a list of words, one per line. The index shows each word and the position of the word in the list, counting from 1. 
+Write a program that generates a simple index from a list of words from a text file, one per line. The index shows each word and the position of the word in the list, counting from 1. 
 
 Example:
 <table>
