@@ -125,9 +125,9 @@ Marx 13<br>
 
 ## Task 16
 
-First same task as task 15 i.e. Write a program that generates a simple index from a list of words from a text file, one per line. The index shows each word and the position of the word in the list, counting from 1. 
+First: same task as task 15 i.e. write a program that generates a simple index from a list of words from a text file, one per line. The index shows each word and the position of the word in the list, counting from 1. 
 
-In addition the index should be sorted by word (case-insensitive). Use [array sort](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort).
+New in this task: the index should be sorted by word (case-insensitive). Use [array sort](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort).
 
 Example:
 <table>
