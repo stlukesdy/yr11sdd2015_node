@@ -90,17 +90,19 @@ Example:
 	<th>Input</th>
 	<th>Output</th>
 	</tr>
-	<tr><td>Time</td><td><pre>Time 1</pre></td></tr>
-	<tr><td>flies</td><td>flies 2</td></tr>
-	<tr><td>like</td><td>like 3</td></tr>
-	<tr><td>an</td><td>an 4</td></tr>
-	<tr><td>arrow</td><td>arrow 5</td></tr>
-	<tr><td>but</td><td>but 6</td></tr>
-	<tr><td>fruit</td><td>fruit 7</td></tr>
-	<tr><td>flies</td><td>flies 8</td></tr>
-	<tr><td>like</td><td>like 9</td></tr>
-	<tr><td>a</td><td>a 10</td></tr>
-	<tr><td>banana</td><td>banana 11</td></tr>
-	<tr><td>Groucho</td><td>Groucho 12</td></tr>
-	<tr><td>Marx</td><td>Marx 13</td></tr>
+
+<tr><td><pre>Time</pre></td><td><pre>Time 1</pre></td></tr>
+<tr><td><pre>flies</pre></td><td><pre>flies 2</pre></td></tr>
+<tr><td><pre>like</pre></td><td><pre>like 3</pre></td></tr>
+<tr><td><pre>an</pre></td><td><pre>an 4</pre></td></tr>
+<tr><td><pre>arrow</pre></td><td><pre>arrow 5</pre></td></tr>
+<tr><td><pre>but</pre></td><td><pre>but 6</pre></td></tr>
+<tr><td><pre>fruit</pre></td><td><pre>fruit 7</pre></td></tr>
+<tr><td><pre>flies</pre></td><td><pre>flies 8</pre></td></tr>
+<tr><td><pre>like</pre></td><td><pre>like 9</pre></td></tr>
+<tr><td><pre>a</pre></td><td><pre>a 10</pre></td></tr>
+<tr><td><pre>banana</pre></td><td><pre>banana 11</pre></td></tr>
+<tr><td><pre>Groucho</pre></td><td><pre>Groucho 12</pre></td></tr>
+<tr><td><pre>Marx</pre></td><td><pre>Marx 13</pre></td></tr>
+
 </table>
