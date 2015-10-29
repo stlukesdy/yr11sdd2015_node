@@ -48,3 +48,35 @@ Example:
   </tr>
 </table>
 
+## Task 13
+
+The 24-hour system of time uses four digits to represent a time to the nearest minute between midnight (0000) and one minute to midnight on the same day (2359). Write a program that reads 4-digit numbers from a text file and checks if the time is before or after noon.
+
+Example:
+<table>
+  <tr>
+    <th>Input</th>
+    <th>Output</th>
+  </tr>
+  <tr>
+    <td>0509</td>
+    <td>AM</td>
+  </tr>
+  <tr>
+    <td>0621</td>
+    <td>AM</td>
+  </tr>
+  <tr>
+    <td>1309</td>
+    <td>PM</td>
+  </tr>
+  <tr>
+    <td>1259</td>
+    <td>AM</td>
+  </tr>
+  <tr>
+    <td>1300</td>
+    <td>PM</td>
+  </tr>
+</table>
+
