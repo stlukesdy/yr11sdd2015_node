@@ -67,7 +67,7 @@ Example:
     <td>AM</td>
   </tr>
   <tr>
-    <td>1309</td>
+    <td>2309</td>
     <td>PM</td>
   </tr>
   <tr>
