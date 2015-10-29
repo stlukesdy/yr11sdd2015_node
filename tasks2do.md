@@ -91,18 +91,34 @@ Example:
 	<th>Output</th>
 	</tr>
 
-<tr><td><pre>Time</pre></td><td><pre>Time 1</pre></td></tr>
-<tr><td><pre>flies</pre></td><td><pre>flies 2</pre></td></tr>
-<tr><td><pre>like</pre></td><td><pre>like 3</pre></td></tr>
-<tr><td><pre>an</pre></td><td><pre>an 4</pre></td></tr>
-<tr><td><pre>arrow</pre></td><td><pre>arrow 5</pre></td></tr>
-<tr><td><pre>but</pre></td><td><pre>but 6</pre></td></tr>
-<tr><td><pre>fruit</pre></td><td><pre>fruit 7</pre></td></tr>
-<tr><td><pre>flies</pre></td><td><pre>flies 8</pre></td></tr>
-<tr><td><pre>like</pre></td><td><pre>like 9</pre></td></tr>
-<tr><td><pre>a</pre></td><td><pre>a 10</pre></td></tr>
-<tr><td><pre>banana</pre></td><td><pre>banana 11</pre></td></tr>
-<tr><td><pre>Groucho</pre></td><td><pre>Groucho 12</pre></td></tr>
-<tr><td><pre>Marx</pre></td><td><pre>Marx 13</pre></td></tr>
+<tr><td><pre>Time<br>
+flies<br>
+like<br>
+an<br>
+arrow<br>
+but<br>
+fruit<br>
+flies<br>
+like<br>
+a<br>
+banana<br>
+Groucho<br>
+Marx<br>
+</pre></td
+><td><pre>
+Time 1<br>
+flies 2<br>
+like 3<br>
+an 4<br>
+arrow 5<br>
+but 6<br>
+fruit 7<br>
+flies 8<br>
+like 9<br>
+a 10<br>
+banana 11<br>
+Groucho 12<br>
+Marx 13<br>
+</pre></td></tr>
 
 </table>
