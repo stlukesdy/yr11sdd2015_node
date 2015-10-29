@@ -166,3 +166,47 @@ Time 1<br>
 </pre></td></tr>
 
 </table>
+
+## Task 17
+
+First: same task as task 16 i.e. write a program that generates a simple index from a list of words from a text file, one per line. The index shows each word and the position of the word in the list, counting from 1. The index should be sorted by word (case-insensitive).
+
+New in this task: It must be formatted so the word and the position are separated by dots and the last character of the position number is in a fixed column.
+
+Example:
+<table>
+	<tr>
+	<th>Input</th>
+	<th>Output</th>
+	</tr>
+
+<tr><td><pre>Time<br>
+flies<br>
+like<br>
+an<br>
+arrow<br>
+but<br>
+fruit<br>
+flies<br>
+like<br>
+a<br>
+banana<br>
+Groucho<br>
+Marx<br>
+</pre></td><td><pre>
+a............10<br>
+an............4<br>
+arrow.........5<br>
+banana.......11<br>
+but...........6<br>
+flies.........2<br>
+flies.........8<br>
+fruit.........7<br>
+Groucho......12<br>
+like..........3<br>
+like..........9<br>
+Marx.........13<br>
+Time..........1<br>
+</pre></td></tr>
+
+</table>
