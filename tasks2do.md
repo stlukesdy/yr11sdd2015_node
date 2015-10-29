@@ -226,4 +226,6 @@ Example:
 <tr><td><pre>34cm</pre></td><td><pre>0.34m</pre></td></tr>
 <tr><td><pre>900mm</pre></td><td><pre>0.9m</pre></td></tr>
 <tr><td><pre>33km</pre></td><td><pre>33000m</pre></td></tr> 
+<tr><td><pre>-1</pre></td></tr> 
+
 </table>
