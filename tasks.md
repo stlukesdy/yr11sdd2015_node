@@ -319,3 +319,117 @@ Marx 13<br>
 </table>
 
 [Sample solution] (https://github.com/stlukesdy/yr11sdd2015_node/blob/master/teacher/node_tasks/task15/program.js)
+
+## Task 16
+
+First: same task as task 15 i.e. write a program that generates a simple index from a list of words from a text file, one per line. The index shows each word and the position of the word in the list, counting from 1. 
+
+New in this task: the index should be sorted by word (case-insensitive). Use [array sort](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort).
+
+Example:
+<table>
+	<tr>
+	<th>Input</th>
+	<th>Output</th>
+	</tr>
+
+<tr><td><pre>Time<br>
+flies<br>
+like<br>
+an<br>
+arrow<br>
+but<br>
+fruit<br>
+flies<br>
+like<br>
+a<br>
+banana<br>
+Groucho<br>
+Marx<br>
+</pre></td><td><pre>
+a 10<br>
+an 4<br>
+arrow 5<br>
+banana 11<br>
+but 6<br>
+flies 2<br>
+flies 8<br>
+fruit 7<br>
+Groucho 12<br>
+like 3<br>
+like 9<br>
+Marx 13<br>
+Time 1<br>
+</pre></td></tr>
+
+</table>
+
+
+[Sample solution] (https://github.com/stlukesdy/yr11sdd2015_node/blob/master/teacher/node_tasks/task16/program.js)
+
+## Task 17
+
+First: same task as task 16 i.e. write a program that generates a simple index from a list of words from a text file, one per line. The index shows each word and the position of the word in the list, counting from 1. The index should be sorted by word (case-insensitive).
+
+New in this task: It must be formatted so the word and the position are separated by dots and the last character of the position number is in a fixed column.
+
+Example:
+<table>
+	<tr>
+	<th>Input</th>
+	<th>Output</th>
+	</tr>
+
+<tr><td><pre>Time<br>
+flies<br>
+like<br>
+an<br>
+arrow<br>
+but<br>
+fruit<br>
+flies<br>
+like<br>
+a<br>
+banana<br>
+Groucho<br>
+Marx<br>
+</pre></td><td><pre>
+a............10<br>
+an............4<br>
+arrow.........5<br>
+banana.......11<br>
+but...........6<br>
+flies.........2<br>
+flies.........8<br>
+fruit.........7<br>
+Groucho......12<br>
+like..........3<br>
+like..........9<br>
+Marx.........13<br>
+Time..........1<br>
+</pre></td></tr>
+
+</table>
+
+[Sample solution] (https://github.com/stlukesdy/yr11sdd2015_node/blob/master/teacher/node_tasks/task17/program.js)
+
+## Task 18
+
+Convert distances given in km, mm or cm into m. The program should read from the console and stop if -1 is the input:
+
+Example:
+<table>
+  <tr>
+    <th>Input</th>
+    <th>Output</th>
+  </tr>
+<tr><td><pre>1m</pre></td><td><pre>1m</pre></td></tr>
+<tr><td><pre>1km</pre></td><td><pre>1000m</pre></td></tr>
+<tr><td><pre>34cm</pre></td><td><pre>0.34m</pre></td></tr>
+<tr><td><pre>900mm</pre></td><td><pre>0.9m</pre></td></tr>
+<tr><td><pre>33km</pre></td><td><pre>33000m</pre></td></tr> 
+<tr><td><pre>-1</pre></td></tr> 
+
+</table>
+
+[Sample solution] (https://github.com/stlukesdy/yr11sdd2015_node/blob/master/teacher/node_tasks/task18/program.js)

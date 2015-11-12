@@ -1,27 +1,37 @@
 var readlineSync = require('readline-sync');
-var answer = '';
-answer = readlineSync.question('Input: ');
+var input = '';
 
 var endsWith = function (word, suffix) {
   return word.indexOf(suffix, word.length - suffix.length) !== -1;
 };
 
-//console.log('1-', endsWith('hello', ''));
-//console.log('2-', endsWith('hello', '0'));
-//console.log('3-', endsWith('hello', 'ello'));
+var convert2m = function (input) {
+  var firstPart1 = input.substring(0, input.length - 1);
+  var firstPart2 = input.substring(0, input.length - 2);
 
+  var firstPart = firstPart2;
+  var multiplier = 1;
 
-while (answer != -1) {
-  var firstPart1 = answer.substring(0, answer.length - 1);
-  var firstPart2 = answer.substring(0, answer.length - 2);
-  console.log('firstPart1= '+ firstPart1);
-  console.log('firstPart2= '+ firstPart2);
-
-
-  if (endsWith(answer, 'km')) {
-
+  if (endsWith(input, 'km')) {
+    multiplier = 1000;
+  } else if (endsWith(input, 'cm')) {
+    multiplier = 0.01;
+  } else if (endsWith(input, 'mm')) {
+    multiplier = 0.001;
+  } else {
+    firstPart = firstPart1;
   }
- 
 
-  answer = readlineSync.question('Input: ');
+  var result = parseInt(firstPart) * multiplier;
+  return result + 'm';
 }
+
+
+while (true) {
+  var input = readlineSync.question('Input (-1 to stop): ');
+  if (input === '-1') {
+    break;
+  }
+
+  console.log(convert2m(input));
+};
