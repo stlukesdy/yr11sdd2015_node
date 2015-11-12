@@ -1,5 +1,4 @@
 var readlineSync = require('readline-sync');
-var input = '';
 
 var endsWith = function (word, suffix) {
   return word.indexOf(suffix, word.length - suffix.length) !== -1;
@@ -26,9 +25,10 @@ var convert2m = function (input) {
   return result + 'm';
 }
 
+var input = '';
 
 while (true) {
-  var input = readlineSync.question('Input (-1 to stop): ');
+  input = readlineSync.question('Input (-1 to stop): ');
   if (input === '-1') {
     break;
   }
