@@ -1,4 +1,0 @@
-text
-many
-reads
-weather
